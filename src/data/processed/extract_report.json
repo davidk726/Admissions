@@ -1,0 +1,254 @@
+[
+  {
+    "file": "강원대_2026 정시 입시결과.xlsx",
+    "status": "ok",
+    "majors": 127,
+    "note": "수능(일반): 123 rows; 실기(일반): 4 rows",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "강원대"
+  },
+  {
+    "file": "건국대(GLOCAL)_2026 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 32,
+    "note": "pdf tables=1, extracted=32",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "건국대(GLOCAL)"
+  },
+  {
+    "file": "고려대(세종)_2025 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 25,
+    "note": "pdf tables=11, extracted=25",
+    "admissionType": "정시",
+    "year": 2025,
+    "university": "고려대(세종)"
+  },
+  {
+    "file": "국민대_2025 정시 입시결과.xlsx",
+    "status": "ok",
+    "majors": 78,
+    "note": "Sheet1: 78 rows",
+    "admissionType": "정시",
+    "year": 2025,
+    "university": "국민대"
+  },
+  {
+    "file": "남서울대_2026 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 32,
+    "note": "pdf tables=3, extracted=32",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "남서울대"
+  },
+  {
+    "file": "단국대_2026 정시 입시결과 (죽전).pdf",
+    "status": "ok",
+    "majors": 49,
+    "note": "pdf tables=2, extracted=49",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "단국대"
+  },
+  {
+    "file": "단국대_2026 정시 입시결과 (천안).pdf",
+    "status": "empty",
+    "majors": 0,
+    "note": "pdf tables=2, extracted=0",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "단국대"
+  },
+  {
+    "file": "대진대_2026 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 33,
+    "note": "pdf tables=1, extracted=33",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "대진대"
+  },
+  {
+    "file": "덕성여대_2026 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 37,
+    "note": "pdf tables=49, extracted=37",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "덕성여대"
+  },
+  {
+    "file": "동국대(WISE)_2025 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 43,
+    "note": "pdf tables=1, extracted=43",
+    "admissionType": "정시",
+    "year": 2025,
+    "university": "동국대(WISE)"
+  },
+  {
+    "file": "동덕여대_2026 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 88,
+    "note": "pdf tables=23, extracted=88",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "동덕여대"
+  },
+  {
+    "file": "명지대_2026 정시 입시결과.xlsx",
+    "status": "ok",
+    "majors": 37,
+    "note": "수능(일반): 24 rows; 수능(실기): 8 rows; 실기우수자: 5 rows",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "명지대"
+  },
+  {
+    "file": "배재대_2026 입시결과.pdf",
+    "status": "ok",
+    "majors": 26,
+    "note": "pdf tables=32, extracted=26",
+    "admissionType": "통합",
+    "year": 2026,
+    "university": "배재대"
+  },
+  {
+    "file": "백석대_2025 정시 입시결과.xlsx",
+    "status": "ok",
+    "majors": 37,
+    "note": "Sheet1: 37 rows",
+    "admissionType": "정시",
+    "year": 2025,
+    "university": "백석대"
+  },
+  {
+    "file": "상명대_2026 정시 입시결과 (천안).pdf",
+    "status": "ok",
+    "majors": 31,
+    "note": "pdf tables=1, extracted=31",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "상명대"
+  },
+  {
+    "file": "서경대_2026 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 18,
+    "note": "pdf tables=1, extracted=18",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "서경대"
+  },
+  {
+    "file": "서울여대_2026 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 39,
+    "note": "pdf tables=42, extracted=39",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "서울여대"
+  },
+  {
+    "file": "성공회대_2026 정시 입시결과.xlsx",
+    "status": "ok",
+    "majors": 7,
+    "note": "정시: 7 rows",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "성공회대"
+  },
+  {
+    "file": "성신여대_2026 입시결과.pdf",
+    "status": "ok",
+    "majors": 184,
+    "note": "pdf tables=8, extracted=184",
+    "admissionType": "통합",
+    "year": 2026,
+    "university": "성신여대"
+  },
+  {
+    "file": "세종대_2025 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 1,
+    "note": "pdf tables=11, extracted=1",
+    "admissionType": "정시",
+    "year": 2025,
+    "university": "세종대"
+  },
+  {
+    "file": "안양대_2026 정시 입시결과.pdf",
+    "status": "empty",
+    "majors": 0,
+    "note": "pdf tables=8, extracted=0",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "안양대"
+  },
+  {
+    "file": "용인대_2026 입시결과.pdf",
+    "status": "ok",
+    "majors": 155,
+    "note": "pdf tables=32, extracted=155",
+    "admissionType": "통합",
+    "year": 2026,
+    "university": "용인대"
+  },
+  {
+    "file": "인천가톨릭대_2026 입시결과.pdf",
+    "status": "empty",
+    "majors": 0,
+    "note": "pdf tables=3, extracted=0",
+    "admissionType": "통합",
+    "year": 2026,
+    "university": "인천가톨릭대"
+  },
+  {
+    "file": "청주대_2026 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 57,
+    "note": "pdf tables=1, extracted=57",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "청주대"
+  },
+  {
+    "file": "평택대_2026 정시 입시결과.pdf",
+    "status": "empty",
+    "majors": 0,
+    "note": "pdf tables=1, extracted=0",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "평택대"
+  },
+  {
+    "file": "한신대_2026 정시 입시결과.pdf",
+    "status": "ok",
+    "majors": 9,
+    "note": "pdf tables=1, extracted=9",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "한신대"
+  },
+  {
+    "file": "호서대_2026 정시 입시결과.xlsx",
+    "status": "ok",
+    "majors": 98,
+    "note": "Sheet1: 98 rows",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "호서대"
+  },
+  {
+    "file": "경기대_2026 입시결과.pdf",
+    "status": "ok",
+    "majors": 40,
+    "note": "merged existing kyonggi json",
+    "admissionType": "정시",
+    "year": 2026,
+    "university": "경기대"
+  }
+]
